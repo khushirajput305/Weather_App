@@ -1,0 +1,87 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Node modules
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Next.js build output
+.next/
+
+# Gatsby files
+.cache/
+
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# Tests
+__tests__/
+*.test.js
+*.spec.js
+coverage/
+
+# System files
+Thumbs.db
+
+# Cache
+.cache/
+.parcel-cache/
+.pnp
+.pnp.js
+
+# Miscellaneous
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Storybook files
+storybook-static/
+
+# Sentry CLI files
+.sentryclirc
+
+# dotenv environment variable files
+.env.*.local
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional stylelint cache
+.stylelintcache
+
+# Output of 'yarn autoclean --init'
+.yarnclean
+
+# Next.js directories
+.next/
+out/
+
+# Parcel files
+.cache/
+
+# Mac system files
+.DS_Store
