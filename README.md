@@ -1,10 +1,11 @@
-# Weather App
+# <div align="center">Weather App</div>
+
 
 ## Overview
 
 The Weather App is a simple, user-friendly application that provides weather forecasts for various cities around the world. It fetches real-time weather data such as temperature, humidity, and wind speed from a reliable weather API.
 
-## Features
+## Features 📃
 
 - **Real-Time Weather Forecasts**: Get up-to-date weather information for any city.
 - **Temperature**: View the current temperature in Celsius.
@@ -12,7 +13,7 @@ The Weather App is a simple, user-friendly application that provides weather for
 - **Wind Speed**: See how fast the wind is blowing.
 - **Search by City**: Easily search for the weather in different cities.
 
-## Technologies Used
+## Technologies Used  💻
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Build Tool**: Vite
